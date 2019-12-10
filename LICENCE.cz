@@ -1,0 +1,199 @@
+Licence Apache
+                           Verze 2.0, leden 2004
+                        http://www.apache.org/licenses/
+
+   PODMÍNKY PRO POUŽITÍ, REPRODUKCI A DISTRIBUCI
+
+   1. Definice.
+
+      „Licencí“ se rozumí podmínky používání, reprodukce,
+      a distribuce, jak je definováno v oddílech 1 až 9 tohoto dokumentu.
+
+      "Poskytovatelem licence" se rozumí vlastník nebo subjekt autorských práv autorizovaný
+      vlastník autorských práv, který uděluje licenci.
+
+      „Právnická osoba“ znamená spojení jednajícího subjektu a všech
+      jiné entity, které kontrolují, jsou ovládány nebo jsou společné
+      ovládání s touto entitou. Pro účely této definice
+      "kontrolou" se rozumí i) síla, přímá nebo nepřímá, způsobující
+      vedení nebo řízení takové entity, ať už na základě smlouvy nebo
+      jinak, nebo (ii) vlastnictví padesáti procent (50%) nebo více
+      nesplacených akcií nebo (iii) skutečného vlastnictví takového subjektu.
+
+      „Vy“ (nebo „Vaše“) znamená fyzickou nebo právnickou osobu
+      výkonu oprávnění udělených touto licencí.
+
+      "Zdrojový" formulář znamená upřednostňovaný formulář pro provádění úprav,
+      včetně, ale bez omezení, zdrojového kódu softwaru, dokumentace
+      zdrojové a konfigurační soubory.
+
+      "Objektem" se rozumí jakýkoli tvar vyplývající z mechanického zpracování
+      transformace nebo překlad zdrojové formy, včetně ale
+      neomezeno na kompilovaný kód objektu, generovanou dokumentaci,
+      a konverze na jiné typy médií.
+
+      "Dílem" se rozumí dílo autorství, ať už ve Zdroji nebo v
+      Objektový formulář zpřístupněný na základě licence, jak je uvedeno v a
+      oznámení o autorských právech, které je součástí díla nebo je k němu připojeno
+      (příklad je uveden v dodatku níže).
+
+      „Derivativní práce“ znamenají jakékoli práce, ať už ve zdroji nebo předmětu
+      forma, která je založena na (nebo odvozena) z Díla a pro kterou
+      redakční revize, anotace, zpracování nebo jiné úpravy
+      představují jako celek originální dílo autorství. Pro účely
+      této Licence, Derivativní díla nezahrnují díla, která zůstávají
+      oddělitelné od rozhraní rozhraní,
+      jejich díla a odvozená díla.
+
+      "Příspěvek" znamená jakékoli dílo autorství, včetně
+      původní verze Díla a jakékoli úpravy nebo dodatky
+      k dílu nebo jeho odvozeným dílům, to je záměrně
+      předloženo poskytovateli licence k zařazení do díla vlastníkem autorských práv
+      nebo fyzickou nebo právnickou osobou oprávněnou podat jménem
+      vlastník autorských práv. Pro účely této definice se „předložené“
+      se rozumí jakákoli forma zaslané elektronické, ústní nebo písemné komunikace
+      Poskytovateli licence nebo jeho zástupcům, mimo jiné včetně
+      komunikace na seznamech elektronické pošty, systémech kontroly zdrojového kódu,
+      a vydávat sledovací systémy, které jsou spravovány nebo jejím jménem
+      Poskytovatel licence za účelem diskuse a zlepšení Díla, ale
+      vyjma komunikace, která je viditelně označena nebo jinak
+      vlastník autorských práv je písemně označen jako „Nejde o příspěvek“.
+
+      „Přispěvatel“ znamená poskytovatele licence a jakoukoli fyzickou nebo právnickou osobu
+      jménem kterého byl příspěvek poskytnut poskytovatelem licence a
+      následně začleněno do Díla.
+
+   2. Udělení licence na autorská práva. S výhradou obchodních podmínek
+      tuto licenci vám každý přispěvatel tímto poskytuje trvalé,
+      celosvětově, nevýhradní, bezplatný, bezplatný, neodvolatelný
+      autorská práva k reprodukci, přípravě odvozených děl,
+      veřejně zobrazovat, veřejně provádět, sublicencovat a distribuovat
+      Práce a odvozená díla ve formě zdroje nebo objektu.
+
+   3. Udělení patentové licence. S výhradou obchodních podmínek
+      tuto licenci vám každý přispěvatel tímto poskytuje trvalé,
+      celosvětově, nevýhradní, bezplatný, bezplatný, neodvolatelný
+      (kromě případů uvedených v této části) patentová licence k udělení, udělení,
+      používat, nabízet k prodeji, prodeji, importu a jinému převodu Díla,
+      pokud se tato licence vztahuje pouze na patentové nároky, na které lze poskytnout licenci
+      takovým přispěvatelem, kterým jejich nezbytně porušuje
+      Příspěvky samostatně nebo kombinací jejich příspěvků
+      s Díjem, k němuž byly takové příspěvky odevzdány. Jestli ty
+      zahájit patentové spory proti jakékoli entitě (včetně a
+      křížový nárok nebo protinávrh v žalobě) vycházející z toho, že Díla
+      nebo Příspěvek začleněný do Díla představuje přímé
+      nebo příspěvkové porušení patentu, pak jakékoli patentové licence
+      udělené vám na základě této licence pro toto Díla končí
+      ode dne podání takové žaloby.
+
+   4. Redistribuce. Můžete reprodukovat a distribuovat kopie
+      Díla nebo jejich odvozená díla v jakémkoli médiu, s nebo bez
+      úprav a ve formě Zdroj nebo Objekt za předpokladu, že Vy
+      splňují následující podmínky:
+
+      (a) Musíte poskytnout jakékoli další příjemce díla nebo
+          Derivative Works kopii této licence; a
+
+      (b) Je nutné, aby všechny upravené soubory obsahovaly výrazná upozornění
+          že jste změnili soubory; a
+
+      (c) Musíte si ponechat ve zdrojové podobě jakékoli odvozené práce
+          že distribuujete veškerá autorská práva, patenty, ochranné známky a
+          oznámení o přiřazení ze zdrojové formy díla,
+          vyjma těch oznámení, která se netýkají žádné části
+          Derivativní práce; a
+
+      (d) Pokud dílo obsahuje textový soubor „OZNÁMENÍ“ jako jeho součást
+          distribuce, pak jakákoli Derivativní díla, která distribuujete, musí
+          obsahují čitelnou kopii obsažených oznámení o přidělení
+          v takovém souboru NOTICE, s výjimkou těch oznámení, která tomu tak není
+          se týkají jakékoli části Derivativních děl, alespoň v jednom
+          z následujících míst: v distribuovaném textovém souboru NOTICE
+          jako součást Derivativních děl; ve formuláři Zdroj nebo
+          dokumentace, je-li poskytována společně s odvozenými pracemi; nebo,
+          na displeji generovaném Derivativními dělami, pokud a
+          všude tam, kde se taková oznámení třetích stran obvykle objevují. Obsah
+          souboru NOTICE slouží pouze pro informační účely a
+          neupravujte licenci. Můžete přidat vlastní přiřazení
+          oznámení v rámci Derivativních děl, která distribuujete společně
+          nebo jako dodatek k textu OZNÁMENÍ z Díla, je-li k dispozici
+          že taková dodatečná oznámení o přiřazení nemohou být vykládána
+          jako úprava licence.
+
+      Můžete přidat své vlastní prohlášení o autorských právech ke svým úpravám a
+      může poskytnout další nebo odlišné licenční podmínky
+      pro použití, reprodukci nebo distribuci vašich úprav nebo
+      za jakékoli takové Derivativní dílo jako celek za předpokladu, že používáte,
+      reprodukce a distribuce Díla jinak vyhovuje
+      podmínky uvedené v této licenci.
+
+   5. Předkládání příspěvků. Pokud výslovně nestanovíte jinak,
+      jakýkoli příspěvek záměrně předložený k zařazení do Díla
+      vámi poskytovatele licence se řídí podmínkami
+      této licence, bez jakýchkoli dalších smluvních podmínek.
+      Bez ohledu na výše uvedené se nic z tohoto nenahrazuje ani nemění
+      podmínky jakékoli samostatné licenční smlouvy, kterou jste mohli uzavřít
+      s poskytovatelem licence ohledně těchto příspěvků.
+
+   6. Ochranné známky. Tato licence neuděluje oprávnění k používání obchodu
+      jména, ochranné známky, servisní značky nebo názvy produktů poskytovatele licence,
+      kromě případů nezbytných pro přiměřené a obvyklé použití při popisu
+      původ Díla a reprodukce obsahu souboru NOTICE.
+
+   7. Zřeknutí se záruky. Pokud to nevyžaduje platné právo nebo
+      s písemnou dohodou, poskytovatel licence poskytuje dílo (a každý
+      Přispěvatel poskytuje své příspěvky) na základně „JAK JE“
+      BEZ ZÁRUKY NEBO PODMÍNKÝCH JAKÝCHKOLI DRUHŮ, vyjádřených nebo
+      předpokládané, včetně, bez omezení, jakýchkoli záruk nebo podmínek
+      TITULU, NEPORUŠENÍ, OBCHODOVATELNOST nebo VHODNOST NA
+      URČITÝ ÚČEL. Jste výhradně zodpovědní za určení
+      vhodnost použití nebo přerozdělení Díla a předpokládat jakékoli
+      rizika spojená s vaším výkonem oprávnění podle této licence.
+
+   8. Omezení odpovědnosti. V žádném případě a bez právní teorie
+      ať už v deliktu (včetně nedbalosti), ve smlouvě nebo jinak,
+      pokud to nevyžadují platné zákony (například úmyslné a hrubé)
+      nedbalým jednáním) nebo písemně dohodnutým, je každý přispěvatel
+      odpovědný za škody, včetně přímých, nepřímých, zvláštních,
+      náhodné nebo následné škody jakékoli povahy vzniklé jako
+      výsledkem této licence nebo z použití nebo nemožnosti používat
+      Práce (včetně, ale nikoli výhradně, náhrad za ztrátu dobré vůle,
+      zastavení práce, selhání nebo selhání počítače nebo jakékoli a všechny
+      jiné obchodní škody nebo ztráty), i když takový Přispěvatel
+      byla upozorněna na možnost takových škod.9. Přijetí záruky nebo dodatečné odpovědnosti. Při redistribuci
+      dílo nebo jeho odvozená díla, můžete se rozhodnout nabídnout,
+      a účtovat poplatek za, přijetí podpory, záruky, odškodnění,
+      nebo jiné závazky a / nebo práva související s touto odpovědností
+      Licence. Při přijímání těchto povinností však můžete jednat pouze
+      vaším vlastním jménem a na vaši výlučnou odpovědnost, nikoli jménem
+      jakéhokoli jiného přispěvatele a pouze pokud souhlasíte s odškodněním,
+      hájit a držet každého přispěvatele neškodného za jakoukoli odpovědnost
+      vzniklé takovým Přispěvatelem nebo nároky uplatňované proti němu z důvodu
+      o přijetí jakékoli takové záruky nebo další odpovědnosti.
+
+   KONEC PODMÍNEK
+
+   DODATEK: Jak aplikovat licenci Apache na vaši práci.
+
+      Chcete-li na svou práci použít licenci Apache, připojte následující
+      oznámení o kotlové desce, pole vyplněná závorkami "[]"
+      nahrazeny vašimi vlastními identifikačními informacemi. (Nezahrnujte
+      závorky!) Text by měl být přiložen příslušným způsobem
+      syntaxe komentáře pro formát souboru. Doporučujeme také, aby
+      název souboru nebo třídy a popis účelu musí být zahrnuty do
+      stejná „tištěná stránka“ jako oznámení o autorských právech
+      identifikace v archivech třetích stran.
+
+   Copyright [yyyy] [jméno vlastníka autorských práv]
+
+   Licencováno na základě licence Apache, verze 2.0 (dále jen „licence“);
+   tento soubor nesmíte používat, pokud není v souladu s licencí.
+   Kopii licence můžete získat na adrese
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Není-li to vyžadováno příslušným zákonem nebo písemně dohodnuto, software
+   distribuovaný na základě licence je distribuován na bázi „JAK JE“
+   BEZ ZÁRUKY NEBO PODMÍNKŮ JAKÉKOLI DRUHY, ať výslovné nebo předpokládané.
+   Viz Licence pro specifický jazyk upravující oprávnění a
+   omezení na základě licence.

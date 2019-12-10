@@ -1,3 +1,3 @@
 <?php
 $text="Hello World";
-$cislo=10+3;
+$cislo=600+60+6;
