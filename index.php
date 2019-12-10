@@ -3,6 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link href="css/hlavni.css" rel="stylesheet" type="text/css"/>
     <meta charset="UTF-8">
 </head>
 <body>
