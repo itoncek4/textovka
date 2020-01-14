@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    padding: 15px;
+    font-family: "Courier New"; 
+}   
+h2 {
+    text-align: center;
+    padding: 15px;
+    font-family: "Courier New"; 
+}
+ul {
+    list-style-type: none;
+    padding: 7%;
+	}
+.prihlaseni .stil{
+    font-family: "Courier New";
+    border: 0px solid black;
+    border-bottom: 0.5px solid black;
+    outline: none;
+    padding: 0px 3px
+	}
