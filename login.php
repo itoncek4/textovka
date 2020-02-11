@@ -63,6 +63,7 @@
                  
                 </td>
                 <td>
+                    <input class="odeslat" type="hidden" name="cesta" value="prihlaseni">
                     <input class="odeslat" type="submit">
                 </td>
             </tr>
